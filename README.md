@@ -8,4 +8,4 @@
 shankarkandimalla/shankarkandimalla is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-i need to get a good job in it sector'
+i need to get a good job in "IT" sector'
